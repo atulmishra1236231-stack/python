@@ -1,2 +1,2 @@
 # python
-this is for python project
+this is for python practis
