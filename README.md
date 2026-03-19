@@ -1,2 +1,2 @@
 # python
-this is for python practis
+this is for python practice
