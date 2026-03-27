@@ -2,7 +2,7 @@ class Employee():
     language = "pyhon"
     salary = 1200000
 
-    def __init__(self, name, salary, language): # dunder method to in which function called automatically
+    def __init__(self, name, salary, language): # dunder method which is automatically called
         print("hello how are you")
         self.name = name
         self.salary = salary
